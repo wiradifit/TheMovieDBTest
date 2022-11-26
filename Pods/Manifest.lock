@@ -1,0 +1,20 @@
+PODS:
+  - ReadMoreTextView (3.0.1)
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - ReadMoreTextView
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - ReadMoreTextView
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  ReadMoreTextView: 19147adf93abce6d7271e14031a00303fe28720d
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: e33413474196ae573eb82ec8a81305c7d4ff2a6a
+
+COCOAPODS: 1.11.3
